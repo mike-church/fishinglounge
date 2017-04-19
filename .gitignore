@@ -13,8 +13,9 @@ Thumbs.db
 # PHPStorm
 *.idea
 
-# Ignore everything in the root except the CSS and Images directory.
+# Ignore everything in the root except these directories.
 /*
 !.gitignore
 !css/
 !images/
+!ptt/
