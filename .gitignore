@@ -16,6 +16,4 @@ Thumbs.db
 # Ignore everything in the root except these directories.
 /*
 !.gitignore
-!css/
-!images/
-!ptt/
+!dist/
