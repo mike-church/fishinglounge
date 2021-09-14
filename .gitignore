@@ -13,7 +13,8 @@ Thumbs.db
 # PHPStorm
 *.idea
 
-# Ignore everything in the root except these directories.
-/*
-!.gitignore
-!dist/
+#Ignore Directories
+
+/src
+/sass
+/css
